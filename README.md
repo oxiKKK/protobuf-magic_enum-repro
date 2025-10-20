@@ -1,0 +1,1 @@
+# protobuf-magic_enum-repro
