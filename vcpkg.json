@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "version-string": "1.0.0",
+  "builtin-baseline": "ae1529e98a05e2a58aa66a9995197f4037fa0590",
+  "dependencies": [
+    {
+      "name": "protobuf",
+      "version>=": "5.29.5"
+    },
+    {
+      "name": "magic-enum",
+      "version>=": "0.9.7"
+    }
+  ],
+  "overrides": [
+    {
+      "name": "protobuf",
+      "version": "5.29.5"
+    },
+    {
+      "name": "magic-enum",
+      "version": "0.9.7"
+    }
+  ]
+}
